@@ -20,7 +20,7 @@ var config = {
             alignment: 'center',
             hidden: false,
             title: 'Hello! My name is Resty.',
-            image: 'photos/resty.JPG',
+            image: 'photos/resty.jpg',
             description: 'I was born and raised in Chicago, where I spent a lot of time on college campuses. This is me, circa 2022, studying at the University of Chicago’s library. For the first time, I was taking classes with students from other states—and even other countries! ',
             location: {
                 center: [-87.599, 41.789],
