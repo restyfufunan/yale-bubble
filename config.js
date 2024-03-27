@@ -20,7 +20,7 @@ var config = {
             alignment: 'center',
             hidden: false,
             title: 'Hello! My name is Resty.',
-            image: 'resty.JPG',
+            image: 'photos/resty.JPG',
             description: 'I was born and raised in Chicago, where I spent a lot of time on college campuses. This is me, circa 2022, studying at the University of Chicago’s library. For the first time, I was taking classes with students from other states—and even other countries! ',
             location: {
                 center: [-87.599, 41.789],
@@ -135,7 +135,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'But what about Yale?',
-            image: 'tile.png',
+            image: 'photos/tile.png',
             description: 'Since we are thinking about space, it makes sense to start with a map. This map style colors Yale buildings a darker shade than the surrounding areas. This largely captures where Yalies tend to go. Tracing the edges of these darker tiles, we start to form a coherent bubble. The boundaries make sense; these represent edges of housing, student-centered development, and the furthest extremes of Yale-owned property. ',
             location: {
                 center: [-72.930, 41.314],
